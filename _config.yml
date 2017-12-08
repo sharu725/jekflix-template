@@ -2,7 +2,7 @@
 title: Jekflix | A theme for Jekyll
 email: youremail@xyz.com
 description: Some text about your blog.
-baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
