@@ -6,7 +6,7 @@ baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
+username: Tarun R
 user_description: Some text about you.
 disqus_username: disqus_username
 
